@@ -1,6 +1,8 @@
 # WPUber
 
-A wecodemore project.
+A high quality wecodemore project. Proudly presenting a new approach on WordPress theme architecture.
+
+Requires at least PHP 5.3.x.
 
 ## Setup
 
