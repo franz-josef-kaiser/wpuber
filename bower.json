@@ -1,0 +1,15 @@
+{
+	"name" : "wcm/wpuber",
+	"version" : "1.0.0",
+	"ignore" : [
+		".git",
+		"node_modules"
+	],
+	"dependencies" : {
+		"inuit.css"  : "git@github.com:csswizardry/inuit.css.git"
+	},
+	"devDependencies" : {
+		"google-maps" : "https://closure-compiler.googlecode.com/git/contrib/externs/maps/google_maps_api_v3_15.js"
+	},
+	"private" : true
+}

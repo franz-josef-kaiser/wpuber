@@ -1,0 +1,27 @@
+{
+	"name"        : "wcm/wpuber",
+	"description" : "A real OOP approach on WordPress Themes.",
+	"type"        : "library",
+	"homepage"    : "http://franz-josef-kaiser.github.io/wpuber/",
+	"license"     : "MIT",
+	"require"     : {
+		"php"                 : ">=5.3",
+		"composer/installers" : "~1.0"
+	},
+	"authors"     : [
+		{
+			"name"  : "Franz Josef Kaiser",
+			"email" : "franzjosef@unserkaiser.com"
+		}
+	],
+	"support"     : {
+		"issues" : "https://github.com/franz-josef-kaiser/wpuber/issues",
+		"source" : "https://github.com/franz-josef-kaiser/wpuber"
+	},
+	"keywords"    : [
+		"wordpress",
+		"theme",
+		"responsive",
+		"oop"
+	]
+}
