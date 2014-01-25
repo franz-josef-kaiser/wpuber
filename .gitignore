@@ -9,3 +9,5 @@ node_modules
 assets/vendor
 # composer
 vendor
+
+npm-debug.log
