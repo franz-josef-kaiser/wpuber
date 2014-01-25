@@ -23,5 +23,10 @@
 		"theme",
 		"responsive",
 		"oop"
-	]
+	],
+	"autoload": {
+		"psr-0": {
+			"WPUber": "inc"
+		}
+	}
 }
