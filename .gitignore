@@ -1,0 +1,11 @@
+## IDE
+# PHPStorm
+.idea
+
+## Package Managers
+# npm
+node_modules
+# bower
+assets/vendor
+# composer
+src
