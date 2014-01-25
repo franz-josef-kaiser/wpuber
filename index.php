@@ -1,2 +1,1 @@
-<?php
-defined( 'ASBPATH' ) OR exit;
+<?php defined( 'ASBPATH' ) OR exit; ?>
